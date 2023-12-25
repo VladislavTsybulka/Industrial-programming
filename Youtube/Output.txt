@@ -1,0 +1,21 @@
+1. Correct links:
+https://www.youtube.com/watch?v=hgXK3Wpuqgw
+
+2. Incorrect links:
+https://youtu.by/8wy4ACtLlfQ?feature=shared
+asouhfiahsfiufh
+https://www.youtube.com/watch?v=asidasoidkjoaisd
+https://youtu.ru/8wy4ACtLlfQ?feature=shared
+aoisfufhfi
+https://www.youtube.com/watch?v=asifuahsfufhasiufhui
+sahfiuhafs
+
+3. Common links for data1.txt and data2.txt:
+https://www.youtube.com/watch?v=hgXK3Wpuqgw
+https://www.youtube.com/watch?v=asidasoidkjoaisd
+https://www.youtube.com/watch?v=asifuahsfufhasiufhui
+
+4. Links from data2.txt in data1.txt:
+https://www.youtube.com/watch?v=hgXK3Wpuqgw
+https://www.youtube.com/watch?v=asidasoidkjoaisd
+https://www.youtube.com/watch?v=asifuahsfufhasiufhui
