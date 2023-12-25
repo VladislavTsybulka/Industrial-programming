@@ -1,0 +1,8 @@
+A Atletico_M Juventus Olympiacos Malmo
+B Real_Madrid Basel Liverpool Ludogorets
+C Monaco Bayer_Leverkusen Zenit Benfica
+D Borussia_D Arsenal Anderlecht Galatasaray
+E Bayern Manchester_City Roma CSKA_M
+F Barcelona PSG Ajax APOEL
+G Chelsea Schalke_04 Sporting_L Maribor
+H Porto Shakhtar_Dn Athletic_B BATE

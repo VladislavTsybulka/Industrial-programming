@@ -1,0 +1,48 @@
+Group: A
+Atletico_M 12 5
+Juventus 9 5
+Olympiacos 6 5
+Malmo 3 5
+
+Group: B
+Real_Madrid 18 6
+Basel 6 5
+Ludogorets 4 6
+Liverpool 4 5
+
+Group: C
+Bayer_Leverkusen 10 5
+Monaco 8 5
+Benfica 5 5
+Zenit 4 5
+
+Group: D
+Borussia_D 10 4
+Arsenal 9 4
+Anderlecht 2 4
+Galatasaray 1 4
+
+Group: E
+Bayern 12 4
+Roma 4 4
+Manchester_City 2 3
+CSKA_M 1 4
+
+Group: F
+Barcelona 9 4
+PSG 7 4
+Ajax 5 4
+APOEL 1 4
+
+Group: G
+Chelsea 10 4
+Schalke_04 8 4
+Maribor 2 4
+Sporting_L 1 4
+
+Group: H
+Porto 8 4
+Shakhtar_Dn 6 4
+Athletic_B 4 4
+BATE 3 4
+
